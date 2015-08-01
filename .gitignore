@@ -1,0 +1,5 @@
+db/*.db
+public/uploads/*.jpg
+public/uploads/*.png
+domain.rb
+*.swp
